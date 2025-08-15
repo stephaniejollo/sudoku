@@ -1,0 +1,12 @@
+# Python / venv
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# App
+ranking_sudoku.json
