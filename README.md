@@ -46,9 +46,8 @@ sudoku/
 
 ## 🖼️ Screenshot (opcional)
 
-Inclua um `screenshot.png` na raiz e adicione aqui:
-```markdown
-![Tela do Sudoku](./screenshot.png)
+<img width="1365" height="593" alt="screenshot" src="https://github.com/user-attachments/assets/22017407-f9c8-4985-921b-2c4d05051651" />
+
 ```
 
 ## 🆘 Dicas de solução de problemas (Windows)
