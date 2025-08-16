@@ -46,7 +46,7 @@ sudoku/
 
 ## 🖼️ Screenshot (opcional)
 
-<img width="1365" height="593" alt="screenshot" src="https://github.com/user-attachments/assets/22017407-f9c8-4985-921b-2c4d05051651" />
+<img width="1361" height="599" alt="image" src="https://github.com/user-attachments/assets/e791184e-343f-4fe1-aa56-9fff4251727f" />
 
 ```
 
