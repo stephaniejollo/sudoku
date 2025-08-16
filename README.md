@@ -1,5 +1,9 @@
 # 🧩 Sudoku com Streamlit — Versão Estilizada
 
+▶️ Demo ao vivo
+
+https://sudoku-stephaniejollo.streamlit.app
+
 Sudoku 9×9 feito em Python + Streamlit, com visual moderno e foco na experiência do jogador.
 
 ## ✨ Funcionalidades
@@ -46,7 +50,6 @@ sudoku/
 
 ## 🖼️ Screenshot (opcional)
 
-<img width="1361" height="599" alt="image" src="https://github.com/user-attachments/assets/e791184e-343f-4fe1-aa56-9fff4251727f" />
 
 ```
 
