@@ -48,8 +48,8 @@ sudoku/
 └── ranking_sudoku.json     # gerado automaticamente (ranking local)
 ```
 
-## 🖼️ Screenshot (opcional)
-
+## 🖼️ Screenshot
+<img width="1361" height="599" alt="image" src="https://github.com/user-attachments/assets/c2415f22-8ddf-4044-a0b6-4cefee29921c" />
 
 ```
 
